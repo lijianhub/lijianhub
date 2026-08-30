@@ -8,7 +8,7 @@ My current focus is on combining **software engineering with AI** — especially
 
 ### What I work with
 
-- **Languages:** Java, Python, JavaScript, TypeScript, C#
+- **Languages:** Java, Python, JavaScript, TypeScript
 - **Backend:** Spring Boot, REST APIs, Microservices
 - **Cloud & Infrastructure:** AWS, Docker, Kubernetes
 - **Databases:** SQL, PostgreSQL, MongoDB
